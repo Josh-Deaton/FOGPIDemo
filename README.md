@@ -1,5 +1,5 @@
 # FOGPIDemo
-
+m_EditorVersion: 6000.0.32f1
 ## naming  convention
 
 - class name noun PascalCase
