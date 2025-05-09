@@ -9,6 +9,7 @@ public class PlayerController2D : MonoBehaviour
     private Rigidbody2D rb2d;
     private bool isGrounded;
     private bool isTouchingWall;
+    protected bool isTouchingTreasure;
     public LayerMask groundLayer;
 
     // Reference to check ground position
